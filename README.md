@@ -12,11 +12,19 @@ O método de avaliação escolhido para o modelo foi o AUC (area under the curve
 Esse projeto foi realizado como avaliação para o curso de formação de cientista de dados da Data Science Academy.
 
 Dicionário:
+
 ip: ip address of click.
+
 app: app id for marketing.
+
 device: device type id of user mobile phone (e.g., iphone 6 plus, iphone 7, huawei mate 7, etc.)
+
 os: os version id of user mobile phone
+
 channel: channel id of mobile ad publisher
+
 click_time: timestamp of click (UTC)
+
 attributed_time: if user download the app for after clicking an ad, this is the time of the app download
+
 is_attributed: the target that is to be predicted, indicating the app was downloaded
