@@ -7,7 +7,7 @@ Em resumo, neste projeto, eu construi um modelo de aprendizado de máquina para 
 Para a construção desse projeto, utilizei a linguagem R e o dataset disponível no Kaggle em:
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
-A avaliação foi realizada através da área abaixo da curva ROC.
+O método de avaliação escolhido para o modelo foi o AUC (area under the curve ROC).
 
 Dicionário:
 ip: ip address of click.
