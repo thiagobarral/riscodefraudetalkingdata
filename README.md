@@ -9,6 +9,8 @@ https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
 O método de avaliação escolhido para o modelo foi o AUC (area under the curve ROC).
 
+Esse projeto foi realizado como avaliação para o curso de formação de cientista de dados da Data Science Academy.
+
 Dicionário:
 ip: ip address of click.
 app: app id for marketing.
